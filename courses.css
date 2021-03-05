@@ -1,0 +1,34 @@
+body{
+  //  background-image:url(sports2.jpg)
+}
+h1{
+    color:black;
+    text-align:center;
+    font-style:italic;
+    font-size:100px;
+    text-shadow:5px 3px 3px grey;
+
+
+}
+p{
+    font-size:50px;
+    font-style:italic;
+    color:black;
+    text-shadow:3px 3px 2px grey;
+    text-align:center;
+    text-decoration:none;
+}
+h1{
+    padding:10px 5px 10px 5px;
+   background-image:url(programming.jpeg);
+}
+a:hover{
+    color:red;
+
+}
+h1:hover{
+    color:red;
+}
+p:link{
+    text-decoration:none;
+}
