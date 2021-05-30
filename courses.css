@@ -20,7 +20,11 @@ p{
 }
 h1{
     padding:10px 5px 10px 5px;
-   background-image:url(programming.jpeg);
+   background:url(C:/Users/91775/Desktop/sports2.jpg);
+   background-repeat:no-repeat;
+   
+   background-size:100% 100%;
+   border-radius:10px;
 }
 a:hover{
     color:red;
@@ -31,4 +35,9 @@ h1:hover{
 }
 p:link{
     text-decoration:none;
+}
+/*h1:background{
+width:100%;
+height:100%;
+
 }
